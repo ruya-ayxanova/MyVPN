@@ -1,0 +1,7 @@
+{
+  "servers": [
+    { "name": "Almanya - Frankfurt", "flag": "🇩🇪", "host": "203.0.113.10", "port": 51820 },
+    { "name": "Hollanda - Amsterdam", "flag": "🇳🇱", "host": "203.0.113.11", "port": 51820 },
+    { "name": "ABD - New York", "flag": "🇺🇸", "host": "203.0.113.12", "port": 51820 }
+  ]
+}
